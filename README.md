@@ -9,7 +9,7 @@ for law enforcement and digital forensic practitioners.
 
 ## Author
 
-Marc Brandt | mb4n6
+Marc Brandt | mb4n6 |
 Hochschule für Polizei Baden-Württemberg
 
 ------------------------------------------------------------------------
