@@ -1,4 +1,4 @@
-# Forensic USB Tool -- Python GUI
+# Forensic USB Tool
 
 A standalone forensic USB preparation and live response tool with a graphical
 interface built using **tkinter**.\
